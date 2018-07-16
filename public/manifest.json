@@ -1,0 +1,8 @@
+{
+  "short_name": "Escuela de policía",
+  "name": "Escuela de policía de La Rioja",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
